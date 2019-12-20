@@ -11,7 +11,7 @@ Os produtos são solicitados por uma solicitação POST. Com dados "dummies", o 
 
 # Passos de execução do teste:
 
-1- Abrir terminal na pasta ./mandala-teste-MEAN  
+1- Abrir terminal na pasta raiz 
 2- executar o comando "node server.js" (porta usada: 3000)  
 3- mudar diretorio do terminal para /mandala-teste  
 4- executar o comando "ng serve" (porta usada: 4200)  
