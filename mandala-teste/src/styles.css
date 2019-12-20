@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-color: var(--off-white);}
+
+:root{
+  --of-white: #fffff2;
+}
+
+.basic-container{
+  padding: 30px;
+}
+
+.mat-figure:hover{
+  background: rgba(0, 0, 0, 0.2)
+}
+
+.mat-app.background {
+  background-color : var(--white-off);
+}
